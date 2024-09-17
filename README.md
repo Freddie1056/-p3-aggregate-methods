@@ -78,3 +78,4 @@ dictionary using `self._grades.values()`. We can now sum the grades and divide i
 ## Resources
 
 - [Python classes](https://docs.python.org/3/tutorial/classes.html)
+# -p3-aggregate-methods
